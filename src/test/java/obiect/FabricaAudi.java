@@ -38,4 +38,9 @@ public class FabricaAudi extends Masina {
             }
         }
     }
+
+    public void pornesteMasina() {
+//        super.pornesteMasina();
+        System.out.println("Masina Audi porneste de la buton");
+    }
 }

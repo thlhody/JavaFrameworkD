@@ -25,6 +25,10 @@ public class Masina {
         this.pret = pret;
     }
 
+    public void pornesteMasina() {
+        System.out.println("Masina porneste de la cheie!");
+    }
+
 
     public void prezentareMasina() {
         if (pret != null) {

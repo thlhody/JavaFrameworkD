@@ -57,4 +57,8 @@ public class FabricaBmw extends Masina {
             }
         }
     }
+
+    public void pornesteMasina() {
+        System.out.println("Masina BMW porneste de la buton si cheie si distanta");
+    }
 }
