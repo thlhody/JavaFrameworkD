@@ -1,4 +1,4 @@
-package variabila.metoda;
+package variabilaMetoda;
 
 import org.testng.annotations.Test;
 

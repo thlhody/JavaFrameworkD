@@ -1,4 +1,4 @@
-package colectii.stream;
+package colectiiStream;
 
 import org.testng.annotations.Test;
 import java.util.*;

@@ -1,4 +1,4 @@
-package interfete.functionale;
+package interfeteFunctionale;
 
 import org.testng.annotations.Test;
 import java.util.Arrays;

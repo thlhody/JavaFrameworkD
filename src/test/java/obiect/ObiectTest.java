@@ -26,6 +26,9 @@ public class ObiectTest {
                 "Diesel", 2021, 2999, 15000, dotariExterioareBmw, dotariInterioareBmw);
         BMWVerde.prezentareBmw();
         BMWVerde.pornesteMasina();
+        BMWVerde.afisarePret();
+        BMWVerde.afisarePret(100);
+        BMWVerde.afisarePret("promo25");
         System.out.println();
 
         Masina Toyota = new Masina("Toyota", "Prius", "Alb",

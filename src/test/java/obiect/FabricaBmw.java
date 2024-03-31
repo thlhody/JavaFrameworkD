@@ -24,6 +24,19 @@ public class FabricaBmw extends Masina {
         System.out.println("Pretul final cu dotari este: " + pretFinal);
     }
 
+    public void afisarePret() {
+        System.out.println("Pret final: " + pretFinal);
+    }
+
+    public void afisarePret(Integer reducere) {
+        System.out.println("Pre final cu reducere:");
+    }
+
+    public void afisarePret(String voucher) {
+        System.out.println("Pre final cu reducere:");
+    }
+
+
     public void calculDotari() {
         pretFinal = getPret();
         for (int i = 0; i < dotariExterioare.size(); i++) {
